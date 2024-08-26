@@ -1,6 +1,6 @@
 # 🌟 Clock People!
 
-We are a group of engineers exploring new technologies and refining our skills through collaborative projects. Our goal is to create a supportive environment for experimentation and innovation.
+Clock People is a group of professional web developers / engineers exploring new technologies and refining our skills through collaborative projects. Our goal is to create a supportive environment for experimentation and innovation.
 
 ## 🚀 Our Mission
 
